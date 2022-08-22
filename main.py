@@ -15,7 +15,7 @@ app_id = 'wx8fd44cd270b66aea'
 app_secret = '8038f9f98cc03f6a7fa99f354ca26946'
 
 user_id = 'oUItv6S-6PlV_9cwCz1_HvWvgPk8'
-template_id = 'wgAnjdS_VqPa8aZSYS5NIrmEkMlLS62bGzvkukHmc2I'
+template_id = '_G8Kiace9wQC28uXoR06QRspZy6Td1cfvhWZ-Adfhbk'
 
 
 def get_weather():
